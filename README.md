@@ -28,18 +28,6 @@ The colorful world we see in this work represents the equality of races on the e
 ## Gradual Change
 [![IMAGE ALT TEXT HERE](https://drive.google.com/uc?export=view&id=110sVfN2y3466GiyM3CD9-xLixrDzYTgS)](https://www.youtube.com/embed/vpkR4jU1aec)
 
-## Authors
-### YuanFu Yang (楊元福)
-#### International collegiate PHD program student in National Tsing Hua University, TW.
-#### Data Scientist / tsmc
-Born in Taipei, Taiwan in 1979. Yang is the Ph.D. student at National Tsing Hua University for his research on Artificial Intelligence (AI) to enhance human creativity. He joined Taiwan Semiconductor Manufacturing Company in 2006. Yang conducts research and production across fields such as defect inspection and yield prediction using deep learning techniques. Yang, himself, has been exploring the potential expansion of painting creativity through the AI and human experts.
-### Iuan Kai Fang (房元凱)
-#### International collegiate PHD program student in National Tsing Hua University, TW.
-#### Master degree in lighting design from Parsons School of Design, NY. The other’s in interior design from Chung Yuan University, TW.
-He has been engaged in interior design for nearly 20 years. His works have won numerous awards including Red Dot ,IF,etc. However, he just started to touch the field of AI Art . Currently, he is studying the technology of 2D single image automatic generates to a 3D model.
-
-<img style="float: left;" src="./images/authors.jpg" width="30%">
-
 ## Reference/Link
 https://ars.electronica.art/newdigitaldeal/en/entrance-distancing-deals/?fbclid=IwAR1LmB6AC75l2ylXfFmy99nOf4rY1f6F20dCZ_xiFY2B4pvfv2I3IhYsCvU
 
